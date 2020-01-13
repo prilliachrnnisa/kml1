@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <!-- Begin Style Definitions -->
+  <Style id="line1">
+    <LineStyle>
+      <color>FF0000FF</color>
+      <width>4</width>
+    </LineStyle>
+  </Style>
+  <Folder>
+    <name>Point Features</name>
+    <description>Point Features</description>
+    <Placemark>
+      <description>Unknown Point Feature</description>
+      <Point>
+      <coordinates>106.9261070000,-6.1418770000,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Folder>
+    <name>Line Features</name>
+    <description>Line Features</description>
+    <Placemark>
+      <description>Unknown Line Type</description>
+      <styleUrl>#line1</styleUrl>
+      <LineString>
+        <coordinates>
+          106.9216360000,-6.1362500000,0
+          106.9216000000,-6.1368550000,0
+          106.9216720000,-6.1374600000,0
+          106.9218500000,-6.1379570000,0
+          106.9219930000,-6.1388820000,0
+          106.9221370000,-6.1395940000,0
+          106.9221370000,-6.1400560000,0
+          106.9220290000,-6.1405180000,0
+          106.9219580000,-6.1411230000,0
+          106.9220290000,-6.1419410000,0
+          106.9221010000,-6.1429720000,0
+          106.9221370000,-6.1436840000,0
+          106.9224940000,-6.1447510000,0
+          106.9229950000,-6.1454970000,0
+          106.9233890000,-6.1461730000,0
+          106.9233890000,-6.1461380000,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <description>Unknown Line Type</description>
+      <styleUrl>#line1</styleUrl>
+      <LineString>
+        <coordinates>
+          106.9246410000,-6.1444660000,0
+          106.9247120000,-6.1397360000,0
+          106.9247480000,-6.1384200000,0
+          106.9296130000,-6.1383840000,0
+          106.9323680000,-6.1384550000,0
+          106.9349800000,-6.1384200000,0
+          106.9350150000,-6.1395940000,0
+          106.9346220000,-6.1396290000,0
+          106.9346220000,-6.1410870000,0
+          106.9345860000,-6.1427590000,0
+          106.9344790000,-6.1442880000,0
+          106.9345150000,-6.1444660000,0
+          106.9315810000,-6.1443950000,0
+          106.9292560000,-6.1443240000,0
+          106.9281470000,-6.1442880000,0
+          106.9275030000,-6.1444300000,0
+          106.9276100000,-6.1446790000,0
+          106.9267510000,-6.1447510000,0
+          106.9257860000,-6.1446790000,0
+          106.9246770000,-6.1446790000,0
+          106.9246770000,-6.1445020000,0
+          106.9247120000,-6.1444300000,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <description>Unknown Line Type</description>
+      <styleUrl>#line1</styleUrl>
+      <LineString>
+        <coordinates>
+          106.9247480000,-6.1398070000,0
+          106.9346930000,-6.1399490000,0
+          106.9346930000,-6.1399490000,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <description>Unknown Line Type</description>
+      <styleUrl>#line1</styleUrl>
+      <LineString>
+        <coordinates>
+          106.9265370000,-6.1398420000,0
+          106.9264300000,-6.1447510000,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <description>Unknown Line Type</description>
+      <styleUrl>#line1</styleUrl>
+      <LineString>
+        <coordinates>
+          106.9255710000,-6.1398070000,0
+          106.9254280000,-6.1446790000,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <description>Unknown Line Type</description>
+      <styleUrl>#line1</styleUrl>
+      <LineString>
+        <coordinates>
+          106.9265370000,-6.1423320000,0
+          106.9278250000,-6.1423680000,0
+          106.9277530000,-6.1419410000,0
+          106.9306150000,-6.1420830000,0
+          106.9329400000,-6.1420830000,0
+          106.9336920000,-6.1420120000,0
+          106.9339060000,-6.1428300000,0
+          106.9346220000,-6.1427940000,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <description>Unknown Line Type</description>
+      <styleUrl>#line1</styleUrl>
+      <LineString>
+        <coordinates>
+          106.9234610000,-6.1461570000,0
+          106.9238540000,-6.1468690000,0
+          106.9238900000,-6.1466910000,0
+          106.9258930000,-6.1471890000,0
+          106.9271630000,-6.1473840000,0
+          106.9271810000,-6.1477570000,0
+          106.9271810000,-6.1478280000,0
+          106.9277000000,-6.1480240000,0
+          106.9279860000,-6.1480060000,0
+          106.9282010000,-6.1472420000,0
+          106.9318320000,-6.1472060000,0
+          106.9318320000,-6.1472060000,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <description>Unknown Line Type</description>
+      <styleUrl>#line1</styleUrl>
+      <LineString>
+        <coordinates>
+          106.9216710000,-6.1362700000,0
+          106.9270380000,-6.1364300000,0
+        </coordinates>
+      </LineString>
+    </Placemark>
+  </Folder>
+</Document>
+</kml>
